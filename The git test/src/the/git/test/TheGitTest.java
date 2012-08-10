@@ -22,6 +22,7 @@ public class TheGitTest {
     public static void main(String[] args) {
         
         System.out.println("I'm pringting stuff");
+        System.out.println("Ice Cream sandwhich");
         // I love chicken
         
         // TODO code application logic here
